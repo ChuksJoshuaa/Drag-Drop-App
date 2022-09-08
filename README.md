@@ -1,1 +1,1 @@
-# Drag and Drop App using Typescript
+# Drag and Drop App using Typescript.
